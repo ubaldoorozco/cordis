@@ -1,0 +1,18 @@
+{
+  "sourceLanguage" : "es-419",
+  "strings" : {
+    "CFBundleName" : {
+      "comment" : "Bundle name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "cordis"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.1"
+}

@@ -1,0 +1,154 @@
+{
+  "sourceLanguage" : "es-419",
+  "strings" : {
+    "" : {
+
+    },
+    "¿Cuál fue tu BPM?" : {
+
+    },
+    "%lld" : {
+
+    },
+    "%lld bpm" : {
+
+    },
+    "4 a 7 años" : {
+
+    },
+    "8 a 12 años" : {
+
+    },
+    "13 a 16 años" : {
+
+    },
+    "88" : {
+
+    },
+    "Ajustes" : {
+
+    },
+    "Analizar" : {
+
+    },
+    "Apariencia" : {
+
+    },
+    "Aún no hay mediciones guardadas." : {
+
+    },
+    "Borrar historial" : {
+
+    },
+    "BPM" : {
+
+    },
+    "Claro" : {
+
+    },
+    "Configuración" : {
+
+    },
+    "CORDIS" : {
+
+    },
+    "CORDIS es un proyecto educativo enfocado en el monitoreo y análisis del ritmo cardíaco con relacion al dia dia ." : {
+
+    },
+    "Créditos" : {
+
+    },
+    "Diseño" : {
+
+    },
+    "Edad" : {
+
+    },
+    "Estadísticas" : {
+
+    },
+    "Fecha" : {
+
+    },
+    "Hansel Eduardo Ortega Borges" : {
+
+    },
+    "Historial" : {
+
+    },
+    "Iniciar" : {
+
+    },
+    "Inicio" : {
+
+    },
+    "Listo" : {
+
+    },
+    "Mediciones guardadas: %lld" : {
+
+    },
+    "Meditación de emergencia" : {
+
+    },
+    "Meditación guiada" : {
+
+    },
+    "Miguel Ángel Roldán García" : {
+
+    },
+    "Modo" : {
+
+    },
+    "Nivel actual" : {
+
+    },
+    "No hay datos todavía" : {
+
+    },
+    "No hay registros en este rango." : {
+
+    },
+    "Oscuro" : {
+
+    },
+    "Patricio Aguilar Pacheco" : {
+
+    },
+    "Pausar" : {
+
+    },
+    "Programación" : {
+
+    },
+    "Promedio: %@ bpm" : {
+
+    },
+    "Rango" : {
+
+    },
+    "Ritmo esperado: %lld – %lld bpm" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ritmo esperado: %1$lld – %2$lld bpm"
+          }
+        }
+      }
+    },
+    "Santiago Aragoneses Arismendi" : {
+
+    },
+    "Sistema" : {
+
+    },
+    "Ubaldo Orozco Camargo" : {
+
+    },
+    "Último registro: %@" : {
+
+    }
+  },
+  "version" : "1.1"
+}

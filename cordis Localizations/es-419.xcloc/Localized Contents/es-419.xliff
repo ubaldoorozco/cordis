@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="cordis-InfoPlist.xcstrings" source-language="es-419" target-language="es-419" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>cordis</source>
+        <target state="new">cordis</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Localizable.xcstrings" source-language="es-419" target-language="es-419" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+    </header>
+    <body>
+      <trans-unit id="" xml:space="preserve">
+        <source/>
+        <target state="new"/>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld" xml:space="preserve">
+        <source>%lld</source>
+        <target state="new">%lld</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld bpm" xml:space="preserve">
+        <source>%lld bpm</source>
+        <target state="new">%lld bpm</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="4 a 7 años" xml:space="preserve">
+        <source>4 a 7 años</source>
+        <target state="new">4 a 7 años</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="8 a 12 años" xml:space="preserve">
+        <source>8 a 12 años</source>
+        <target state="new">8 a 12 años</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="13 a 16 años" xml:space="preserve">
+        <source>13 a 16 años</source>
+        <target state="new">13 a 16 años</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="88" xml:space="preserve">
+        <source>88</source>
+        <target state="new">88</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ajustes" xml:space="preserve">
+        <source>Ajustes</source>
+        <target state="new">Ajustes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Analizar" xml:space="preserve">
+        <source>Analizar</source>
+        <target state="new">Analizar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Apariencia" xml:space="preserve">
+        <source>Apariencia</source>
+        <target state="new">Apariencia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aún no hay mediciones guardadas." xml:space="preserve">
+        <source>Aún no hay mediciones guardadas.</source>
+        <target state="new">Aún no hay mediciones guardadas.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="BPM" xml:space="preserve">
+        <source>BPM</source>
+        <target state="new">BPM</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Borrar historial" xml:space="preserve">
+        <source>Borrar historial</source>
+        <target state="new">Borrar historial</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="CORDIS" xml:space="preserve">
+        <source>CORDIS</source>
+        <target state="new">CORDIS</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="CORDIS es un proyecto educativo enfocado en el monitoreo y análisis del ritmo cardíaco con relacion al dia dia ." xml:space="preserve">
+        <source>CORDIS es un proyecto educativo enfocado en el monitoreo y análisis del ritmo cardíaco con relacion al dia dia .</source>
+        <target state="new">CORDIS es un proyecto educativo enfocado en el monitoreo y análisis del ritmo cardíaco con relacion al dia dia .</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Claro" xml:space="preserve">
+        <source>Claro</source>
+        <target state="new">Claro</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Configuración" xml:space="preserve">
+        <source>Configuración</source>
+        <target state="new">Configuración</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Créditos" xml:space="preserve">
+        <source>Créditos</source>
+        <target state="new">Créditos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Diseño" xml:space="preserve">
+        <source>Diseño</source>
+        <target state="new">Diseño</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Edad" xml:space="preserve">
+        <source>Edad</source>
+        <target state="new">Edad</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Estadísticas" xml:space="preserve">
+        <source>Estadísticas</source>
+        <target state="new">Estadísticas</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fecha" xml:space="preserve">
+        <source>Fecha</source>
+        <target state="new">Fecha</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hansel Eduardo Ortega Borges" xml:space="preserve">
+        <source>Hansel Eduardo Ortega Borges</source>
+        <target state="new">Hansel Eduardo Ortega Borges</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Historial" xml:space="preserve">
+        <source>Historial</source>
+        <target state="new">Historial</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Iniciar" xml:space="preserve">
+        <source>Iniciar</source>
+        <target state="new">Iniciar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Inicio" xml:space="preserve">
+        <source>Inicio</source>
+        <target state="new">Inicio</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Listo" xml:space="preserve">
+        <source>Listo</source>
+        <target state="new">Listo</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mediciones guardadas: %lld" xml:space="preserve">
+        <source>Mediciones guardadas: %lld</source>
+        <target state="new">Mediciones guardadas: %lld</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Meditación de emergencia" xml:space="preserve">
+        <source>Meditación de emergencia</source>
+        <target state="new">Meditación de emergencia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Meditación guiada" xml:space="preserve">
+        <source>Meditación guiada</source>
+        <target state="new">Meditación guiada</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Miguel Ángel Roldán García" xml:space="preserve">
+        <source>Miguel Ángel Roldán García</source>
+        <target state="new">Miguel Ángel Roldán García</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Modo" xml:space="preserve">
+        <source>Modo</source>
+        <target state="new">Modo</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Nivel actual" xml:space="preserve">
+        <source>Nivel actual</source>
+        <target state="new">Nivel actual</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No hay datos todavía" xml:space="preserve">
+        <source>No hay datos todavía</source>
+        <target state="new">No hay datos todavía</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No hay registros en este rango." xml:space="preserve">
+        <source>No hay registros en este rango.</source>
+        <target state="new">No hay registros en este rango.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Oscuro" xml:space="preserve">
+        <source>Oscuro</source>
+        <target state="new">Oscuro</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Patricio Aguilar Pacheco" xml:space="preserve">
+        <source>Patricio Aguilar Pacheco</source>
+        <target state="new">Patricio Aguilar Pacheco</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pausar" xml:space="preserve">
+        <source>Pausar</source>
+        <target state="new">Pausar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Programación" xml:space="preserve">
+        <source>Programación</source>
+        <target state="new">Programación</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Promedio: %@ bpm" xml:space="preserve">
+        <source>Promedio: %@ bpm</source>
+        <target state="new">Promedio: %@ bpm</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rango" xml:space="preserve">
+        <source>Rango</source>
+        <target state="new">Rango</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ritmo esperado: %lld – %lld bpm" xml:space="preserve">
+        <source>Ritmo esperado: %1$lld – %2$lld bpm</source>
+        <target state="new">Ritmo esperado: %1$lld – %2$lld bpm</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Santiago Aragoneses Arismendi" xml:space="preserve">
+        <source>Santiago Aragoneses Arismendi</source>
+        <target state="new">Santiago Aragoneses Arismendi</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sistema" xml:space="preserve">
+        <source>Sistema</source>
+        <target state="new">Sistema</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ubaldo Orozco Camargo" xml:space="preserve">
+        <source>Ubaldo Orozco Camargo</source>
+        <target state="new">Ubaldo Orozco Camargo</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Último registro: %@" xml:space="preserve">
+        <source>Último registro: %@</source>
+        <target state="new">Último registro: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="¿Cuál fue tu BPM?" xml:space="preserve">
+        <source>¿Cuál fue tu BPM?</source>
+        <target state="new">¿Cuál fue tu BPM?</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
